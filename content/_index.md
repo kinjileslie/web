@@ -106,22 +106,7 @@ jobs:
 
 Now for actions: **Settings** -> **Pages** -> **Build and deployment** -> **Source**: Change from "branch" to Github Actions. 
 
-Make a new file in `context/_index.md` as a default page:
-
-`
----
-title: "Hello World"
-date: 2026-03-17T12:45:00-07:00
-draft: false
----
-
-# Welcome to my new page
-
-This is my first post on my new **Hugo** site!
-
-`
-
-
+Make a new file in `context/_index.md` as your default page and you're off!j
 
 
 ## cool tips:
