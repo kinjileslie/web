@@ -71,3 +71,7 @@ sectionPagesMenu = "main"
     disableInlineCSS = true
   [services.x]
     disableInlineCSS = true
+
+[[module.mounts]]
+  source = "exampleSite/content"
+  target = "content"
